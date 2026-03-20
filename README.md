@@ -1,6 +1,6 @@
 # open-pdu-wifi
 Open-source WiFi-controlled programmable PDU (DIY), designed for modular hardware, repairability, and real-world engineering constraints.
-
+This project is developed in Spanish, as it is being carried out in Argentina. 🇦🇷
 # PDU Programable DIY – Proyecto en Desarrollo
 
 Este repositorio documenta el desarrollo de una **PDU programable DIY** orientada a racks, laboratorios, homelabs y entornos técnicos, diseñada bajo un enfoque práctico, modular y realista, priorizando criterio de ingeniería por sobre soluciones comerciales cerradas o costosas.
