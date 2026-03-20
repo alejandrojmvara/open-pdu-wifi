@@ -12,7 +12,7 @@ El proyecto nace como respuesta a la falta de PDUs programables accesibles para 
 ## 🧠 Objetivo del proyecto
 
 Diseñar y construir una **PDU programable en formato rack 2U**, con control local y remoto, medición individual de consumo y capacidad de expansión futura, utilizando hardware accesible y fácilmente mantenible.
-
+* NOTA: Gabinete seleccionado al efecto Numata desarmable 2U con soportes para rack
 ---
 
 ## 🔧 Características principales (diseño)
