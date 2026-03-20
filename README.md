@@ -116,4 +116,11 @@ Toda observación técnica es bienvenida.
 
 Proyecto personal desarrollado en Argentina, bajo restricciones reales de costos, disponibilidad y fabricación, priorizando soluciones prácticas y mantenibles.
 
+ALGUNAS IMAGENES:
+![Rack VISTA FRONTAL](1.PNG)
 
+![Rack VISTA TRASERA](2.PNG)
+
+![PCB´S HAT, BASEBOARD, ENCODER](2.PNG)
+
+![Rack FRENTE POSIBLE](4.jpg)
