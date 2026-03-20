@@ -118,19 +118,26 @@ Proyecto personal desarrollado en Argentina, bajo restricciones reales de costos
 
 ALGUNAS IMAGENES:
 
-![Rack VISTA FRONTAL](1.jpg)
 <p align="center">
-Vista frontal rack
+  <img src="1.jpg" width="700">
+  <br>
+  <em>Vista frontal del rack</em>
 </p>
-![Rack VISTA TRASERA](2.jpg)
+
 <p align="center">
-Vista Trasera Rack
+  <img src="2.jpg" width="700">
+  <br>
+  <em>Vista trasera del rack</em>
 </p>
-![PCB´S HAT, BASEBOARD, ENCODER](3.jpg)
+
 <p align="center">
-HAT para Arduino Mega, BASBOARD esp & rtc
+  <img src="3.jpg" width="700">
+  <br>
+  <em>HAT para Arduino Mega, Baseboard ESP8266 + RTC y módulo encoder</em>
 </p>
-![Rack FRENTE POSIBLE](4.jpg)
+
 <p align="center">
-Posible Frente para el pdu
+  <img src="4.jpg" width="700">
+  <br>
+  <em>Posible diseño del frente del PDU</em>
 </p>
