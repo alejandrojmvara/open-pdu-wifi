@@ -1,5 +1,5 @@
 # open-pdu-wifi
-Open-source WiFi-controlled programmable PDU (DIY), designed for modular hardware, repairability, and real-world engineering constraints.
+Open-source Wi-Fi controlled programmable PDU (DIY), designed for modular hardware, repairability, and real-world engineering constraints.
 This project is developed in Spanish, as it is being carried out in Argentina. 🇦🇷
 # PDU Programable DIY – Proyecto en Desarrollo
 
@@ -22,7 +22,7 @@ Diseñar y construir una **PDU programable en formato rack 2U**, con control loc
 - Medición de corriente individual por canal (sensores de efecto Hall)  
 - Control local mediante botones y LEDs de estado  
 - Interfaz local mediante display Reprap 12864 + encoder  
-- Gestión remota vía WiFi (ESP8266)  
+- Gestión remota vía Wi-Fi (ESP8266)  
 - RTC dedicado para eventos temporizados  
 - Watchdog por sobre-tensión  
 - Arquitectura modular y reparable  
@@ -35,7 +35,7 @@ Diseñar y construir una **PDU programable en formato rack 2U**, con control loc
 El sistema se basa en una arquitectura distribuida y modular:
 
 - **Arduino Mega** como controlador principal
-- **ESP8266** para conectividad WiFi y gestión remota
+- **ESP8266** para conectividad Wi-Fi y gestión remota
 - **RTC DS3231** para temporización independiente
 - **HAT dedicado para Arduino Mega**
 - **Baseboard para ESP8266 + RTC**
